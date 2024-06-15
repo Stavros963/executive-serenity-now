@@ -3,8 +3,6 @@ title: "Notre Offre"
 order: 1
 in_menu: true
 ---
-# Notre Offre
-
 **Objectifs :**
  
 Définir rapidement des objectifs clairs et mesurables alignés sur vos attentes et vos points forts.
