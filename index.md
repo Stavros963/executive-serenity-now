@@ -1,8 +1,10 @@
 ---
-title: Accueil
+title: "Accueil"
 order: 0
+in_menu: true
 ---
+# Conseil mental et émotionnel pour cadres et dirigeants
 
-# L'Échappée Belle
+Avec 20 ans d'expérience en prise de décision et management, un Master en psychologie et un Doctorat en neurobiologie, nous vous proposons un accompagnement **hautement personnalisé**, basé sur des approches cognitives, comportementales et humaines. 
 
-L'Échappée Belle est **une association** qui a pour objet de soutenir et promouvoir des activités et des personnes qui travaillent autour de **valeurs de consentement, de bien commun et de prendre soin des personnes et de l’environnement**.
+Notre mentoring est uniquement fondé sur des outils scientifiques et validés cliniquement afin de vous offrir des solutions qui soient réellement efficaces et **durables**. 
