@@ -14,3 +14,5 @@ Notre mentoring est uniquement fondé sur des outils scientifiques et validés c
 Chez ESN, nous comprenons vos défis parce que **nous les avons-nous-même traversé**. Notre programme de conseil et de mentoring est conçu pour soutenir les cadres comme vous, en vous aidant à transformer votre stress en sérénité. 
 
 Nous construisons une relation de confiance et d'autonomisation, avec une transparence éthique totale. 
+
+![Code QR ESN]({% link images/QR ESN.png %}) 
